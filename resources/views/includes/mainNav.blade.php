@@ -1,5 +1,8 @@
 <header>
     <nav class="navbar navbar-expand-md navbar-dark bg-danger fixed-top">
+        <style>
+            body {background-color: #b3e8ca ;}
+        </style>
         <a class="navbar-brand" href="/">ThankYou Message</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse"
                 aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
